@@ -1,0 +1,10 @@
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://peer2:7002/eureka/
+  server:
+    enable-self-preservation: false
+server:
+  port: 7001
