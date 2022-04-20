@@ -12,5 +12,6 @@ public class App
         System.out.println("master add");
         System.out.println("hot-fix add");
         System.out.println("merge ok");
+        System.out.println("pull test");
     }
 }
