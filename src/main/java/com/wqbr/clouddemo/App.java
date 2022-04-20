@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("master add");
+        System.out.println("hot-fix add");
+        System.out.println("merge ok");
     }
 }
